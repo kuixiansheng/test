@@ -2,3 +2,4 @@
 
 1.git init
 2.git romate
+3.git add
